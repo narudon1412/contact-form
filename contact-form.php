@@ -1,7 +1,7 @@
 <?php
 // BEGIN CONFIGURATION ////////////////////////////////////////////////
 
-define('EMAIL_TO', 'your-email@address.com');
+define('EMAIL_TO', 'narudon1412@gmail.com');
 define('EMAIL_SUBJECT', 'Test Subject');
 define('CAPTCHA_ENABLED', '1'); // 0 - Disabled, 1 - Enabled
 
